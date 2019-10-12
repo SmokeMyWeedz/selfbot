@@ -1,0 +1,15 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kezua.js",
+  "scripts": {
+    "start": "node kezua.js"
+  },
+  "keywords": [],
+  "author": "Kezua",
+  "license": "",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
